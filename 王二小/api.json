@@ -42,6 +42,14 @@
             "indexs": 0
         },
         {
+            "key": "Wexxmanhua",
+            "name": "💓‍漫画┃4K💓‍",
+            "type": 3,
+            "api": "csp_Wexxmanhua",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "115",
             "name": "💓‍115┃4K💓‍",
             "type": 3,
@@ -708,6 +716,14 @@
             "name": "🎠影子┃综合🎠",
             "type": 3,
             "api": "csp_Wexyingso",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Wextyso",
+            "name": "🎠给力┃天逸🎠",
+            "type": 3,
+            "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0
         },
