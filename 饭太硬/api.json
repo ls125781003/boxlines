@@ -75,16 +75,6 @@
             }
         },
         {
-            "key": "酷看",
-            "name": "💡酷看┃秒播",
-            "type": 3,
-            "api": "csp_Kkys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "文采",
             "name": "💮文采┃秒播",
             "type": 3,
@@ -156,16 +146,14 @@
             "changeable": 1
         },
         {
-            "key": "厂长",
-            "name": "📔厂长┃不卡",
+            "key": "酷看",
+            "name": "💡酷看┃秒播",
             "type": 3,
-            "api": "csp_NewCz",
+            "api": "csp_Kkys",
             "timeout": 15,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czys.pro/"
+            "changeable": 1
         },
         {
             "key": "原创",
@@ -174,6 +162,17 @@
             "api": "csp_YCyz",
             "timeout": 15,
             "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "可可",
+            "name": "👻可可┃多线",
+            "type": 3,
+            "api": "csp_Kekys",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -219,17 +218,6 @@
             "playerType": "1",
             "api": "./api/drpy2.min.js",
             "ext": "./js/jp.js"
-        },
-        {
-            "key": "可可",
-            "name": "👻可可┃多线",
-            "type": 3,
-            "api": "csp_Kekys",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "Auete",

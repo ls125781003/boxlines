@@ -42,16 +42,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kkys",
-            "name": "💡酷看",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_YCyz",
             "name": "☀原创",
             "type": 3,
@@ -150,6 +140,15 @@
             "name": "🥣饺子",
             "type": 3,
             "api": "csp_Jiaozi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_SC1080",
+            "name": "⛪圣城",
+            "type": 3,
+            "api": "csp_SC1080",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -394,7 +393,7 @@
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
                 "siteUrl": "https://www.wogg.net/",
-                "filter": "http://127.0.0.1:9978/file/XYQTVBox/wogg.json"
+                "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"
             }
         },
         {
@@ -407,7 +406,7 @@
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
                 "siteUrl": "https://duopan.fun",
-                "filter": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"
+                "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"
             }
         },
         {
@@ -455,7 +454,7 @@
             "switchable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
-                "share": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"
+                "share": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"
             }
         },
         {
@@ -896,7 +895,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
-    "logo": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/LiuHua.gif",
+    "logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/NanFeng.gif",
     "rules": [
         {
             "name": "proxy",
