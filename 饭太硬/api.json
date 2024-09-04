@@ -357,36 +357,11 @@
             "ext": "./json/MTV.json"
         },
         {
-            "key": "csp_Yj1211",
-            "name": "📽️网红┃直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/huya2.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "斗鱼js",
-            "name": "🐟斗鱼┃直播",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -607,18 +582,6 @@
     ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "./lives/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "TV",
-            "type": 0,
-            "url": "./lives/TV.txt",
-            "epg": ""
-        },
         {
             "name": "IPV6",
             "type": 0,

@@ -16,7 +16,7 @@ var rule = {
     // filter: 'H4sIAAAAAAAAA+2UzUrDQBCA32XOEZLUJrGvIj0saaDBNisxBkIJCG3Fi4oepIg3EQoieqiH+vM23Zq+hRuaZLZ4ce9z2/lmd2d2+NgR+H0e+gF0DkdwFGTQgRMeJ2BAxIaSwvrqVnxcyzhlg9PttqjED2c/45cSy8DyIDcavr57q/lBw8XTd/E6qbnT8M3zTFyc72RtC/Jumd+2c8wy7KZ4nxSL5Z9uxHS+Gc+r83sWVp1eVttl4Dluk1h93YubWZVwduplAYuxoFguVp+P/y5om/Z+/YxyqfAW8pbKbeS2yi3kO/ebyE2Fy1nXXBm7DDzknspd5K7KHeSOytvI2+XAugYkKWlD2mhrM+RpSB8OmaNvTsriMEgycofc0XbHZ3HCeUTukDv67vTDQY/MIXO0zelxn5M4JI6mOPkvgswSEpgPAAA=',
     filter: 'H4sIAAAAAAAAA+1Y3U8aWRT/X+ZZEwYEtI9207Rp0r40+9CNDxM7G8laaZCamsYEinyoDYp1sa1I/aJSK4ita3Eo9J+Ze2fmv9g7yOWc22u3xJX0RZ7gd+ee7/M7h3mujE+EQ+O6cuOP58pf+qxyQ5kOR6LKgDKlPWaoQrOrxFhmv2e0yafnj025cCFmJSouzH4E/crcQBen+VoHH/Z1cVJq2kfzHFeVuTH35FxhaFbXIqCRnJ2YjV1JI0mWnUS5I2FQ7Ur2erxDHbT9FeE+wH0Y9wLuxbgKuCDfA7gH4epIF2dfET4M+DDGg4AHMR4APIBxP+B+N2JjA0p0pi+ZCo5cnCnXHpSpP3Ut+jSig07ruEGKSz3nysoc00SSywaVy3v2LochI/TFoZXPdWBIoJNokvqLDgz5JtVTYnA/wU2SL5CF/Q4M0TW/bpFSmnsPKivvzdYWL1MQktqg69xACBXdTNi1Je4OlIaz+YHkmhxH7mdrpFrkOPJoc5W+LnEcXLJeZsFIFXyy9nPkrIFSxPGPRboY43gQ6Z1Hzw9fN98lm+9xeCb0S5kyOvvkfzTf4pHVPJD7ZvGYfFuXmk/oG9XDPqguExV7O4bOAurFTdu+B9kR2989+1FNsyMVEUF8hcby+MyDzC9ba8I9FOLMa9NYwPogwwJdtO9BVTDHRTtRpbKG/M5OkCmwR/sMcVw2RZY/YZlwZsfi1kIa34NysEvfIJsIrtZI82/xltsfqFiuG7vnxp7RIiE9OtuX1naDdM23l0rLuBaJhsNTv5JxtYiuoWwVauSl0XO2SCrJbkjrDl0v0cKhvO4c7lutrNTpJHlqNjj5DV3hOMBLAeJozMNQYCK1IetSq86bD5LRjHlpng8VlIGVonWYkwMSX2KjQVrGnMoamPKDLQfVqDh5gjjcpF6Xtyi6tU02uhMAyS+8Mw0DbUv8+WzZWknJW5rI7CiSjWWSrP93Pt0hd00OlyOHidDko/78GUJbAqaG7+brtP4M6Yvtk8zH3pmh9JlUeNugnlz7ArC3T0Tkw51xERGJFfqTAnVa87T6T8+WeAZ95FNccnxoMAAwWBIcHAEY7FY9DDUbJbO+KK+zybJg1TmjtCvmUXg83J+CEWk5FI1ooUkdxyltkFdxmj/rOU6jozelIJGNpru1FmpAQ+D37dH7PE4qsvPe7btyftuE5ezknPgriXTvPPidy/H7ELlmd6yTHeEO0wPqH/52C2DoHzvZsqtHdvqAZE5lBiYrGbNZoAWDFnmPBS6uQv/VzT1mjDV/KsWPjV5n9113mwZ8r2V+fSuVIJsQNJ+WjRZmAX5/YBpLUiLYrIVJBvxon+yw2SEPGpYDmLX4dUDzgG5npEyKbwPQnrGepDAP2/09NvcvaIIuCAgUAAA=',
     headers: {
-        'User-Agent': 'okhttp/4.12.0'
+        'User-Agent': 'PC_UA'
     },
     timeout: 5000,
     // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
@@ -27,37 +27,46 @@ var rule = {
     class_url: 'choice&movie&tv&variety&cartoon&child&doco',
     limit: 20,
     play_parse:true,
-    // play_parse:true,
- lazy: $js.toString(() => {
-    let d = [];
-    
-    // 发起请求并解析返回的 JSON 数据
-    let response = JSON.parse(request("http://1.xiaomi666.work.gd/aini1.php?url=" + input));
-    
-    // 获取所有字段名
-    let keys = Object.keys(response);
-    
-    // 查找以 'url' 开头的字段名
-    let urlKey = keys.find(key => key.startsWith('url'));
-    
-    // 提取对应的值
-    let url = urlKey ? response[urlKey] : null;
-    
-    if (url) {
-        // 处理 url，或将其用于 input
-        input = {
-            url: url,
-            parse: 0,
-            header: rule.headers
-        };
+  // play_parse:true,
+lazy: $js.toString(() => {
+  let d = [];
+
+  try {
+    // 发起请求并获取响应，添加请求头
+    let headers = {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36' // 替换为您的 User-Agent 字符串
+    };
+    let responseText = request("http://39.104.230.177:1122/lxjx/mivip.php?url=" + input, { headers: headers });
+    console.log("响应文本:", responseText); // 查看原始响应内容
+
+    // 解析 JSON 数据
+    let response = JSON.parse(responseText);
+
+    // 查找以 'url' 开头的字段
+    let urlField = Object.keys(response).find(key => key.startsWith('url'));
+
+    // 提取找到的字段值
+    let urlValue = urlField ? response[urlField] : null;
+
+    console.log("提取的随机字段值:", urlValue); // 查看提取的值
+
+    if (urlValue) {
+      // 处理 urlValue，或将其用于 input
+      input = {
+        url: urlValue,
+        parse: 0,
+        header: rule.headers
+      };
     } else {
-        // 处理没有找到 url 字段的情况
-        console.error("没有找到以 'url' 开头的字段");
+      // 处理没有找到字段的情况
+      console.error("没有找到以 'url' 开头的字段");
     }
-    
-    setResult(d);
+  } catch (error) {
+    console.error("处理请求或数据时发生错误：", error);
+  }
+
+  setResult(d);
 }),
-   
 
     推荐: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     一级: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
