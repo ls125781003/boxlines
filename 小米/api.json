@@ -108,7 +108,19 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "./js/ttt1.js"
+            "ext": "./js/tx.js"
+        },
+        {
+            "key": "guoguo",
+            "name": "🌞果果┃解析",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/guoguo.js"
         },
         {
             "key": "csp_NanGua",
@@ -283,11 +295,12 @@
                 "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
                 "导演": "导演:</div>&&主演",
                 "主演": "主演:</div>&&别名",
-                "线路标题": "文采",
+                "线路标题": "小米文采",
                 "播放数组": "listitem\">&&info\">",
                 "播放列表": "<a&&</a>",
                 "倒序": "否",
                 "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
+                "搜索副标题": "class=\"boottom\"*<div>&&</div",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
                 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
             }
@@ -400,7 +413,7 @@
         {
             "name": "4K解析",
             "type": 1,
-            "url": "http://43.242.202.173:25253/x.php?url=",
+            "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -429,7 +442,7 @@
         {
             "name": "1080解析",
             "type": 1,
-            "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
+            "url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=",
             "ext": {
                 "flag": [
                     "qq",
