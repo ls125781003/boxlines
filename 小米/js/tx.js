@@ -36,7 +36,7 @@ lazy: $js.toString(() => {
     let headers = {
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36' // 替换为您的 User-Agent 字符串
     };
-    let responseText = request("http://39.104.230.177:1122/lxjx/mivip.php?url=" + input, { headers: headers });
+    let responseText = request("" + input, { headers: headers });
     console.log("响应文本:", responseText); // 查看原始响应内容
 
     // 解析 JSON 数据

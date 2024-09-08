@@ -73,6 +73,18 @@
             "ext": "./js/123qq.js"
         },
         {
+            "key": "摸鱼瓜子",
+            "name": "🍉嗑嗑瓜子┃超清纯净",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/guazi.js"
+        },
+        {
             "key": "蜡笔弹幕",
             "name": "🖍︎蜡笔资源┃4K弹幕",
             "type": 3,

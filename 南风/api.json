@@ -72,28 +72,10 @@
             "changeable": 1
         },
         {
-            "key": "csp_Dadag",
-            "name": "🐢达达龟",
-            "type": 3,
-            "api": "csp_Dadag",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Qiyou",
             "name": "🦌奇优",
             "type": 3,
             "api": "csp_Qiyou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Ikan",
-            "name": "💖爱看",
-            "type": 3,
-            "api": "csp_Ikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -181,16 +163,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Kekys",
-            "name": "👻可可",
-            "type": 3,
-            "api": "csp_Kekys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
             "changeable": 1
         },
         {
@@ -331,15 +303,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Ysj",
-            "name": "📮异世界",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Djtt",
             "name": "🌈短剧",
             "type": 3,
@@ -363,15 +326,6 @@
                     }
                 ]
             }
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "📽️JustLive",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "Aid",
@@ -445,6 +399,17 @@
             }
         },
         {
+            "key": "纸条搜",
+            "name": "📜小纸条",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+            }
+        },
+        {
             "key": "网盘集合",
             "name": "🅿网盘集合|4K",
             "type": 3,
@@ -455,6 +420,22 @@
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
                 "share": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"
+            }
+        },
+        {
+            "key": "Youtube",
+            "name": "⚡Youtube（墙外）",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/youtube.json",
+                "cookie": ""
             }
         },
         {
@@ -551,16 +532,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "./js/虎牙直播.js"
-        },
-        {
-            "key": "斗鱼直播",
-            "name": "🐠斗鱼直播",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./js/斗鱼直播.js"
         },
         {
             "key": "有声小说吧",
@@ -719,9 +690,9 @@
             "url": "Demo"
         },
         {
-            "name": "解析",
-            "type": 1,
-            "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
+            "name": "云",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -731,26 +702,26 @@
                     "奇艺",
                     "youku",
                     "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
                     "mgtv",
                     "芒果",
-                    "tnmb",
-                    "seven",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
                     "bilibili",
-                    "1905"
+                    "哔哩哔哩",
+                    "哔哩"
                 ],
                 "header": {
-                    "User-Agent": "okhttp/4.9.1"
+                    "User-Agent": "okhttp/4.1.0"
                 }
             }
         },
         {
-            "name": "解析2",
-            "type": 1,
-            "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url=",
+            "name": "云2",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -760,19 +731,48 @@
                     "奇艺",
                     "youku",
                     "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
                     "mgtv",
                     "芒果",
-                    "tnmb",
-                    "seven",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
                     "bilibili",
-                    "1905"
+                    "哔哩哔哩",
+                    "哔哩"
                 ],
                 "header": {
-                    "User-Agent": "okhttp/4.9.1"
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "m3u8TV",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
                 }
             }
         },
@@ -826,64 +826,6 @@
                     "哔哩哔哩",
                     "哔哩"
                 ]
-            }
-        },
-        {
-            "name": "麒麟",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "云",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
             }
         }
     ],

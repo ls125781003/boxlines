@@ -42,6 +42,14 @@
             "indexs": 0
         },
         {
+            "key": "Wexalllive",
+            "name": "💓‍聚合┃直播💓‍",
+            "type": 3,
+            "api": "csp_Wexalllive",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "115",
             "name": "💓‍115┃4K💓‍",
             "type": 3,
@@ -890,9 +898,15 @@
     ],
     "lives": [
         {
-            "name": "IPv6001",
+            "name": "王二小放牛娃推荐使用",
             "type": 0,
-            "url": "./lives/IPv6001.txt",
+            "url": "./lives/王二小放牛娃推荐使用.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "IPV6",
+            "type": 0,
+            "url": "./lives/IPV6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
@@ -923,12 +937,6 @@
             "name": "IPV4",
             "type": 0,
             "url": "./lives/IPV4.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "IPV6",
-            "type": 0,
-            "url": "./lives/IPV6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]
