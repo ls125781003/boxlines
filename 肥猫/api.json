@@ -80,12 +80,6 @@
             "api": "csp_Nongm"
         },
         {
-            "key": "csp_Quanwk",
-            "name": "🗺️️┃全网┃影视",
-            "type": 3,
-            "api": "csp_Quanwk"
-        },
-        {
             "key": "csp_Kanke",
             "name": " 👀┃看客┃影视",
             "type": 3,
@@ -145,7 +139,7 @@
             "playerType": 2,
             "timeout": 30,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "https://www.wogg.net"
         },
         {
             "key": "比特",

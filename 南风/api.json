@@ -62,16 +62,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Jpys",
-            "name": "💮金牌",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Qiyou",
             "name": "🦌奇优",
             "type": 3,
@@ -97,7 +87,8 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "http://www.tvyun01.com/"
         },
         {
             "key": "csp_Dyxs",
