@@ -35,16 +35,6 @@
             "timeout": 10
         },
         {
-            "key": "酷看",
-            "name": "😎酷看┃直连",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10
-        },
-        {
             "key": "南瓜",
             "name": "🎃南瓜┃直连",
             "type": 3,

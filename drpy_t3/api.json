@@ -278,17 +278,6 @@
 			"ext": "./drpy_js/南瓜影视[优].js"
 		},
 		{
-			"key": "hipy_js_网飞猫[优]",
-			"name": "网飞猫[优](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/网飞猫[优].js"
-		},
-		{
 			"key": "hipy_js_素白白[优]",
 			"name": "素白白[优](drpy_t3)",
 			"type": 3,
@@ -510,15 +499,6 @@
 			"name": "酷狗",
 			"type": 3,
 			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0,
-			"order_num": 9999
-		},
-		{
-			"key": "Iktv",
-			"name": "KTV",
-			"type": 3,
-			"api": "csp_Iktv",
 			"searchable": 1,
 			"changeable": 0,
 			"order_num": 9999

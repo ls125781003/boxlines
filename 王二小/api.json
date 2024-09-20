@@ -449,6 +449,14 @@
             "changeable": 1
         },
         {
+            "key": "Wexlaobaitingshu",
+            "name": "🎃‍白兔┃听书🎃",
+            "type": 3,
+            "api": "csp_Wexlaobaitingshu",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "Wexliyuan",
             "name": "🎎戏曲┃秒播🎎",
             "type": 3,

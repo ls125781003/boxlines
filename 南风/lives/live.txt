@@ -17,12 +17,6 @@ CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
 CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8?
 CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
-CCTV2,http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 卫视,#genre#
