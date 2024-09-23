@@ -89,14 +89,6 @@
             "playerType": 2
         },
         {
-            "key": "freeok",
-            "name": "🦁freeOK┃独家",
-            "type": 3,
-            "changeable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_FreeOK"
-        },
-        {
             "key": "配置",
             "name": "⚙️网盘┃配置",
             "type": 3,
@@ -127,6 +119,18 @@
             "order_num": 0,
             "changeable": 0,
             "ext": "./js/guoguo.js"
+        },
+        {
+            "key": "摘星",
+            "name": "✨摘星┃解析",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/摘星.js"
         },
         {
             "key": "csp_NanGua",
@@ -442,7 +446,7 @@
         {
             "name": "反弹",
             "type": 1,
-            "url": "http://www.mpanso.com/小米/mying.php?url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",

@@ -508,10 +508,90 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:00 总决赛 香港金牛vs安徽文一 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」13:00 3X决赛 解说
+https://tv.iill.top/NBA/1
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」15:15 联赛 青岛西海岸vs深圳新鹏城 解说
 https://tv.iill.top/Migu/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:00 清流播出
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」15:15 联赛 青岛西海岸vs深圳新鹏城 赛场原声
 https://tv.iill.top/Migu/2
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:20 季前赛 江苏肯帝亚vs上海久事 解说
+https://tv.iill.top/Migu/3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:20 清流播出
+https://tv.iill.top/Migu/4
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 季前赛 宁波町渥vs深圳马可波罗 解说
+https://tv.iill.top/Migu/5
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 清流播出
+https://tv.iill.top/Migu/6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 季前赛 广州龙狮vs天津先行者 解说
+https://tv.iill.top/Migu/7
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 清流播出
+https://tv.iill.top/Migu/8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 季前赛 新疆伊力特vs青岛国信水产 解说
+https://tv.iill.top/Migu/9
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 清流播出
+https://tv.iill.top/Migu/10
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 季前赛 浙江广厦vs九台农商银行 解说
+https://tv.iill.top/Migu/11
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 清流播出
+https://tv.iill.top/Migu/12
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」18:15 联赛 佛罗伦萨vs拉齐奥 解说
+https://tv.iill.top/Migu/13
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 联赛 南通支云vs青岛海牛 解说
+https://tv.iill.top/Migu/14
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 联赛 南通支云vs青岛海牛 赛场原声
+https://tv.iill.top/Migu/15
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:15 季前赛 广东华南虎vs福建浔兴股份 解说
+https://tv.iill.top/Migu/16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:15 清流播出
+https://tv.iill.top/Migu/17
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:15 清流播出
+https://tv.iill.top/Migu/18
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 季前赛 浙江稠州金租vs山东高速 解说
+https://tv.iill.top/Migu/19
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 清流播出
+https://tv.iill.top/Migu/20
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 季前赛 北京北汽vs辽宁本钢 解说
+https://tv.iill.top/Migu/21
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 清流播出
+https://tv.iill.top/Migu/22
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 季前赛 山西汾酒vs北京控股 解说
+https://tv.iill.top/Migu/23
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 清流播出
+https://tv.iill.top/Migu/24
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 浙江vs沧州雄狮 解说
+https://tv.iill.top/Migu/25
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 浙江vs沧州雄狮 赛场原声
+https://tv.iill.top/Migu/26
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「西甲」19:50 联赛 赫塔菲vs莱加内斯 解说
+https://tv.iill.top/Migu/27
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:50 季前赛 南京头排苏酒vs四川金强 解说
+https://tv.iill.top/Migu/28
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:50 清流播出
+https://tv.iill.top/Migu/29
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」20:50 联赛 布莱顿vs诺丁汉森林 解说
+https://tv.iill.top/Migu/30
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」20:50 联赛 蒙扎vs博洛尼亚 解说
+https://tv.iill.top/Migu/31
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「法甲」20:50 联赛 摩纳哥vs勒阿弗尔 解说
+https://tv.iill.top/Migu/32
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「西甲」22:05 联赛 毕尔巴鄂竞技vs塞尔塔 解说
+https://tv.iill.top/Migu/33
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「法甲」22:50 联赛 蒙彼利埃vs欧塞尔 解说
+https://tv.iill.top/Migu/34
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「法甲」22:50 联赛 昂热vs南特 解说
+https://tv.iill.top/Migu/35
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「法甲」22:50 联赛 布雷斯特vs图卢兹 解说
+https://tv.iill.top/Migu/36
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」23:15 联赛 曼城vs阿森纳 解说
+https://tv.iill.top/Migu/37
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」23:15 联赛 曼城vs阿森纳 粤语
+https://tv.iill.top/Migu/38
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」23:15 联赛 曼城vs阿森纳 闽南语
+https://tv.iill.top/Migu/39
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」23:15 联赛 曼城vs阿森纳 沪语
+https://tv.iill.top/Migu/40
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」23:50 联赛 罗马vs乌迪内斯 解说
+https://tv.iill.top/Migu/41
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
