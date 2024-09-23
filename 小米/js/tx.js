@@ -27,46 +27,32 @@ var rule = {
 	class_url: 'choice&movie&tv&variety&cartoon&child&doco',
 	limit: 20,
 	play_parse: true,
-    lazy: $js.toString(() => {
-    let d = [];
-
-// 发起请求并解析返回的 JSON 数据
-fetch(`http://39.104.230.177:1122/lxjx/my123.php?url=${encodeURIComponent(input)}`, {
-    method: 'GET',
-    headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
-        'Connection': 'Keep-Alive',
-        'Accept-Encoding': 'gzip'
-    }
-})
-.then(response => response.json())
-.then(response => {
-    // 获取所有字段名
-    let keys = Object.keys(response);
-    
-    // 查找以 '影视' 开头的字段名
-    let urlKey = keys.find(key => key.startsWith('影视'));
-    
-    // 提取对应的值
-    let url = urlKey ? response[urlKey] : null;
-    
-    if (url) {
-        // 处理 url，或将其用于 input
+     lazy: $js.toString(() => {
+        let d = [];
+        let url1=JSON.parse(request("https://vip.ysctv.cn/api/index?parsesId=26&appid=4&videoUrl="+input)).url;      
+        var withoutDomain = url1.replace(/^https:\/\/baidu\.con\//, '');
+        var first16Chars = withoutDomain.substring(0, 16);
+        var remainingString = withoutDomain.substring(16);
+        var key = CryptoJS.enc.Utf8.parse(first16Chars);
+        var iv = key;
+        function AES_Decrypt(word) {
+            var srcs = word;
+            var decrypt = CryptoJS.AES.decrypt(srcs, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            });
+            return decrypt.toString(CryptoJS.enc.Utf8);
+        };        
+        let url = AES_Decrypt(remainingString);
         input = {
             url: url,
             parse: 0,
             header: rule.headers
-        };
-    } else {
-        // 处理没有找到 url 字段的情况
-        console.error("没有找到以 '影视' 开头的字段");
-    }
-})
-.catch(error => console.error('请求失败:', error));
+        }
+        setResult(d)
+    }),
 
-    
-    setResult(d);
-}),
 
 
 
