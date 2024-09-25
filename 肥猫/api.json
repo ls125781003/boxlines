@@ -36,9 +36,17 @@
                     "https://duopan.fun",
                     "http://labipan.com",
                     "https://mihdr.top",
-                    "https://feimaoai.site"
+                    "http://feimaoai.site"
                 ]
             }
+        },
+        {
+            "key": "肥猫4K",
+            "name": "🖍┃肥猫┃4K",
+            "type": 3,
+            "api": "./api/drpy.min.js",
+            "ext": "./js/肥猫4K.js",
+            "searchable": 0
         },
         {
             "key": "nangua",
