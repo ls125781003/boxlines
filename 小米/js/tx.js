@@ -29,7 +29,7 @@ var rule = {
 	play_parse: true,
      lazy: $js.toString(() => {
         let d = [];
-        let url1=JSON.parse(request("https://vip.ysctv.cn/api/index?parsesId=26&appid=4&videoUrl="+input)).url;      
+        let url1=JSON.parse(request("https://vip.ysctv.cn/api/index?parsesId=23&appid=4&videoUrl="+input)).url;      
         var withoutDomain = url1.replace(/^https:\/\/baidu\.con\//, '');
         var first16Chars = withoutDomain.substring(0, 16);
         var remainingString = withoutDomain.substring(16);
