@@ -943,27 +943,9 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "live-IPV6",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/lib/live.ipv6.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
             "name": "tvlive",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "YTLive",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/lib/yo21.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "FMjson",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
