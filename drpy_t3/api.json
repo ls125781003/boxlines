@@ -913,6 +913,66 @@
 	],
 	"lives": [
         {
+            "name": "itvlistIPV4",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "范明明IPV6",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "wwb521TV",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "GatherTV",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "yoursmile66",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "live-IPV6",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/lib/live.ipv6.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "tvlive",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "YTLive",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/lib/yo21.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "FMjson",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "PizazzGYlive",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
             "name": "飞龙",
             "type": 0,
             "url": "./lives/feilong.txt",
@@ -936,18 +996,7 @@
             "type": 0,
             "url": "./lives/开心频道.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "杭州华数",
-            "type": 0,
-            "url": "./lives/杭州华数.m3u",
-            "epg": ""
-        },
-        {
-            "name": "华数2",
-            "type": 0,
-            "url": "./lives/华数2.m3u",
-            "epg": ""
         }
+        
     ]
 }
