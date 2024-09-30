@@ -687,7 +687,7 @@
 				"name": "直播",
 				"type": 0,
 				
-				"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},

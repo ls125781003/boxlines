@@ -5,10 +5,18 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影 播放失败后重新点击下",
+            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影 接口只兼容OK影视或者影视",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
+        },
+        {
+            "key": "配置",
+            "name": "⚙️网盘┃配置4K",
+            "type": 3,
+            "changeable": 0,
+            "searchable": 0,
+            "api": "csp_Config"
         },
         {
             "key": "csp_wanou",
@@ -72,6 +80,21 @@
             "ext": ""
         },
         {
+            "key": "GUAZI",
+            "name": "🥁瓜子┃1080",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "./api/appys.js",
+            "ext": {
+                "host": "http://110.42.37.106:7788/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+                    ""
+                ]
+            }
+        },
+        {
             "key": "csp_subaobai",
             "name": "✍️白白┃1080P",
             "type": 3,
@@ -83,30 +106,46 @@
             "ext": ""
         },
         {
-            "key": "君君",
-            "name": "🚗君君┃1080P",
+            "key": "junjun",
+            "name": "🚗君君┃1080",
             "type": 3,
-            "changeable": 0,
-            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
+            "api": "./api/appys.js",
+            "ext": {
+                "host": "http://122.228.85.203:1000/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+                ]
+            }
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "🪖厂长┃1080P",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "ext": "https://www.czzy.site/"
         },
         {
             "key": "csp_yunbo",
-            "name": "☁️️云播┃108P",
+            "name": "☁️️云播┃1080",
             "type": 3,
             "api": "csp_Tvyb",
             "playerType": 2
         },
         {
-            "key": "配置",
-            "name": "⚙️网盘┃配置",
+            "key": "hipy_闪电",
+            "name": "⚡️闪电┃1080P",
             "type": 3,
+            "api": "./api/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
             "changeable": 0,
-            "searchable": 0,
-            "api": "csp_Config"
+            "ext": "./js/闪电.js"
         },
         {
             "key": "hipy_js_腾云驾雾[官]",
@@ -118,7 +157,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "./js/tx.js"
+            "ext": "./js/ttt.js"
         },
         {
             "key": "guoguo",
@@ -134,7 +173,7 @@
         },
         {
             "key": "摘星",
-            "name": "✨摘星┃解析",
+            "name": "✨星星┃1080P",
             "type": 3,
             "api": "./api/drpy.min.js",
             "searchable": 1,
@@ -150,26 +189,6 @@
             "type": 3,
             "changeable": 1,
             "api": "csp_NanGua",
-            "playerType": 2,
-            "filterable": 1
-        },
-        {
-            "key": "csp_paopao",
-            "name": "🫧菠菜┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_Pptv",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "https://yigeg.pro"
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "🥛耐看┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_Nkdy",
             "playerType": 2,
             "filterable": 1
         },
@@ -398,7 +417,7 @@
         {
             "name": "4K解析",
             "type": 1,
-            "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",
@@ -427,7 +446,7 @@
         {
             "name": "反弹",
             "type": 1,
-            "url": "",
+            "url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -456,7 +475,7 @@
         {
             "name": "1080解析1",
             "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",
@@ -485,7 +504,7 @@
         {
             "name": "1080解析",
             "type": 1,
-            "url": "https://jf.lemiaoyun.cn/api/?key=8b7dec2f10ce79cd5687a7d6f6a335a8&url=",
+            "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
             "ext": {
                 "flag": [
                     "qq",
