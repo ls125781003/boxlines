@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 #EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",免费订阅：请勿贩卖...
 https://github.com/YanG-1989
-#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护时间：2024-09-11 #佛系维护...
+#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护时间：2024-09-29 #佛系维护...
 https://github.com/YanG-1989
-#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护内容：维护 Gather「删减 / 维护」
+#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护内容：维护 Gather「新增·咪咕「足球」分组」
 https://github.com/YanG-1989
 #EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",公告说明：没啥说的直接看字...
 https://github.com/YanG-1989
@@ -508,144 +508,52 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」00:00 联赛 拜仁慕尼黑 vs 勒沃库森 胡小凡 张力
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」02:35 联赛 帕尔马 vs 卡利亚里 吴奕博
 https://tv.iill.top/FB/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」00:00 联赛 拜仁慕尼黑 vs 勒沃库森 涂远
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」02:50 联赛 比利亚雷亚尔 vs 拉斯帕尔马斯 李霄
 https://tv.iill.top/FB/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」00:15 联赛 狼队 vs 利物浦 苏东 徐阳
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」02:50 联赛 伯恩茅斯 vs 南安普顿 刘焕
 https://tv.iill.top/FB/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」00:20 联赛 皇家社会 vs 瓦伦西亚 李霄
-https://tv.iill.top/FB/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」00:50 联赛 勒阿弗尔 vs 里尔 解说
-https://tv.iill.top/FB/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」02:35 联赛 博洛尼亚 vs 亚特兰大 张昊泽
-https://tv.iill.top/FB/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」02:45 联赛 奥萨苏纳 vs 巴塞罗那 梁祥宇 李欣
-https://tv.iill.top/FB/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」02:50 联赛 摩纳哥 vs 蒙彼利埃 鹿中原
-https://tv.iill.top/FB/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」18:20 联赛 都灵 vs 拉齐奥 鲁靖明
-https://tv.iill.top/FB/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「中超」19:00 联赛 成都蓉城 vs 梅州客家 李欣 张辛昕
-https://tv.iill.top/FB/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「中超」19:00 联赛 成都蓉城 vs 梅州客家 赛场原声
-https://tv.iill.top/FB/11
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「中超」19:20 联赛 天津津门虎 vs 沧州雄狮 孙宁智 冯潇霆
-https://tv.iill.top/FB/12
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「中超」19:20 联赛 天津津门虎 vs 沧州雄狮 2024赛季第27轮：天津津门虎VS沧州雄狮（赛场原声）
-https://tv.iill.top/FB/13
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「中超」19:45 联赛 武汉三镇 vs 河南俱乐部酒祖杜康 石庆圣 李彦
-https://tv.iill.top/FB/14
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「中超」19:45 联赛 武汉三镇 vs 河南俱乐部酒祖杜康 2024赛季第27轮：武汉三镇VS河南俱乐部酒祖杜康（赛场原声）
-https://tv.iill.top/FB/15
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」19:50 联赛 塞尔塔 vs 吉罗纳 周楚雄
-https://tv.iill.top/FB/16
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」20:50 联赛 伊普斯维奇 vs 阿斯顿维拉 苗锟
-https://tv.iill.top/FB/17
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」20:50 联赛 罗马 vs 威尼斯 谭逸雄
-https://tv.iill.top/FB/18
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」20:50 联赛 科莫 vs 维罗纳 乔迁
-https://tv.iill.top/FB/19
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」20:50 联赛 图卢兹 vs 里昂 杨加丞
-https://tv.iill.top/FB/20
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」21:20 联赛 荷尔斯泰因 vs 法兰克福 鲁靖明
-https://tv.iill.top/FB/21
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」22:00 联赛 毕尔巴鄂竞技 vs 塞维利亚 张昊泽 贺宇
-https://tv.iill.top/FB/22
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」22:50 联赛 昂热 vs 兰斯 鹿中原
-https://tv.iill.top/FB/23
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」22:50 联赛 南特 vs 圣埃蒂安 盛斌
-https://tv.iill.top/FB/24
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」23:15 联赛 曼联 vs 托特纳姆热刺 詹俊 张路 林梦鸽
-https://tv.iill.top/FB/25
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」23:15 联赛 曼联 vs 托特纳姆热刺 陈渤胄
-https://tv.iill.top/FB/26
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」23:20 联赛 霍芬海姆 vs 云达不莱梅 谭逸雄
-https://tv.iill.top/FB/27
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」23:50 联赛 恩波利 vs 佛罗伦萨 石庆圣
-https://tv.iill.top/FB/28
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 庄佳贺
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」12:23 2024中国公开赛第9日：女单第四轮 张帅 vs 弗莱彻 解说房朕
 https://tv.iill.top/Migu/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 轩子博
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」12:23 2024中国公开赛第9日：女单第四轮 张帅 vs 弗莱彻
 https://tv.iill.top/Migu/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 杨硕
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」16:00 中国大满贯公园：球员见面会 大满贯公园
 https://tv.iill.top/Migu/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 张启旸
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 2号桌
 https://tv.iill.top/Migu/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 1号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 闫安 侯英超 周冠达
 https://tv.iill.top/Migu/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 2号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 候场区
 https://tv.iill.top/Migu/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 3号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 曹志宇
 https://tv.iill.top/Migu/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 4号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 罗锦
 https://tv.iill.top/Migu/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 英文解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 黄一宸
 https://tv.iill.top/Migu/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 混采区
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 1号桌
 https://tv.iill.top/Migu/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:56 中国大满贯：混双1/16决赛、男女单打1/32决赛 训练馆
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 3号桌
 https://tv.iill.top/Migu/11
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 张文悦 鸿昆 蔡凯臣
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 4号桌
 https://tv.iill.top/Migu/12
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 佟艺 李宁
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 英文解说
 https://tv.iill.top/Migu/13
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 张天翼
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 混采区
 https://tv.iill.top/Migu/14
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 库德梅托娃VS佩古拉
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/8决赛、男女单双打1/16决赛 训练馆
 https://tv.iill.top/Migu/15
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 钻石球场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」19:00 2024中国公开赛第9日：男单半决赛、女单第四轮 刘钟鸣 张文悦 邱超
 https://tv.iill.top/Migu/16
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 莲花球场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」19:00 2024中国公开赛第9日：男单半决赛、女单第四轮 钻石球场
 https://tv.iill.top/Migu/17
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 映月球场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」19:00 2024中国公开赛第9日：男单半决赛、女单第四轮 风景机位
 https://tv.iill.top/Migu/18
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 布拉德球场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」19:00 2024中国公开赛第9日：男单半决赛 辛纳 vs 布云朝克特 解说员张文悦
 https://tv.iill.top/Migu/19
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 3号球场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」19:00 2024中国公开赛第9日：男单半决赛 辛纳 vs 布云朝克特
 https://tv.iill.top/Migu/20
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 5号球场
-https://tv.iill.top/Migu/21
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：女单第三轮、男单第二轮 博尔特VS高芙
-https://tv.iill.top/Migu/22
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：男单第二轮 布云朝克特 vs 穆塞蒂 解说张文悦
-https://tv.iill.top/Migu/23
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」11:00 2024中国公开赛第7日：男单第二轮 布云朝克特 vs 穆塞蒂 布云朝克VS穆塞蒂
-https://tv.iill.top/Migu/24
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」15:00 2024中国公开赛第7日：女单第三轮 张帅 vs 米内恩 解说蔡凯臣
-https://tv.iill.top/Migu/25
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「网球」15:00 2024中国公开赛第7日：女单第三轮 张帅 vs 米内恩
-https://tv.iill.top/Migu/26
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯公园：明星球员见面会 大满贯公园
-https://tv.iill.top/Migu/27
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 周雨 闫安 周冠达
-https://tv.iill.top/Migu/28
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 候场区
-https://tv.iill.top/Migu/29
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 曹志宇
-https://tv.iill.top/Migu/30
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 罗锦
-https://tv.iill.top/Migu/31
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 曾丝怡
-https://tv.iill.top/Migu/32
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 1号桌
-https://tv.iill.top/Migu/33
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 2号桌
-https://tv.iill.top/Migu/34
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 3号桌
-https://tv.iill.top/Migu/35
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 4号桌
-https://tv.iill.top/Migu/36
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 英文解说
-https://tv.iill.top/Migu/37
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 混采区
-https://tv.iill.top/Migu/38
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 中国大满贯：混双1/16决赛、男女单打1/32决赛 训练馆
-https://tv.iill.top/Migu/39
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英雄联盟」20:00 全球总决赛 入围赛 R7 vs PNG 2024全球总决赛入围赛：R7 vs PNG（官方解说）
-https://tv.iill.top/Migu/40
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英雄联盟」23:00 全球总决赛 入围赛 PSG vs 100T 2024全球总决赛入围赛：PSG vs 100T（官方解说）
-https://tv.iill.top/Migu/41
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -738,6 +646,10 @@ https://tv.iill.top/migu/fyzq
 https://tv.iill.top/migu/ufc
 #EXTINF:-1 tvg-name="全民乒乓" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",全民乒乓
 https://tv.iill.top/migu/qmpp
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•TVB「测试」", 翡翠台「SD」
+https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="https://epg.iill.top/logo/美亚电影.png" group-title="•TVB「测试」",美亞電影台「SD」
+https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="okhttp" group-title="•港澳「限制」",鳳凰衛視·中文「限UA」
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="okhttp" group-title="•港澳「限制」",鳳凰衛視·資訊「限UA」
@@ -774,13 +686,13 @@ https://tv.iill.top/litv/litv-longturn09
 https://tv.iill.top/litv/litv-longturn07
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯运动二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="•台湾「限制」", 博斯運動二台
 https://tv.iill.top/litv/litv-longturn08
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="•台湾「限制」", 博斯高球一台
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球1台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="•台湾「限制」", 博斯高球一台
 https://tv.iill.top/litv/litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="•台湾「限制」", 博斯高球二台
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球2台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="•台湾「限制」", 博斯高球二台
 https://tv.iill.top/litv/litv-longturn06
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="•台湾「限制」", 博斯魅力台
 https://tv.iill.top/litv/litv-longturn04
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚运动X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="•台湾「限制」", 時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="时尚运动X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="•台湾「限制」", 時尚運動X
 https://tv.iill.top/4gtv/277
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林体育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="•台湾「限制」", 智林體育台
 https://tv.iill.top/litv/4gtv-4gtv101
@@ -3445,7 +3357,7 @@ https://tv.iill.top/MyTV/JUHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 https://tv.iill.top/MyTV/J
-#EXTINF:-1 tvg-id="J2" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•myTV SUPER「Default」",TVB Plus
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•myTV SUPER「Default」",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
@@ -3510,7 +3422,7 @@ https://tv.iill.top/MyTV/JUHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.iill.top/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
 https://tv.iill.top/MyTV/J
-#EXTINF:-1 tvg-id="J2" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•myTV SUPER「TiviMate」",TVB Plus
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•myTV SUPER「TiviMate」",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.iill.top/results.php?keyid=56603b65fa1d7383b6ef0e73b9ae69fa&key=5d9d8e957d2e45d8189a56fe8665aaaa

@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕️豆瓣┃首页┃推荐",
+            "name": "🇨🇳️国庆┃假期┃快乐",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -79,17 +79,6 @@
             "order_num": 0,
             "changeable": 0,
             "ext": "./js/guazi.js"
-        },
-        {
-            "key": "醉挽清风",
-            "name": "🍁醉挽清风┃4K纯净",
-            "type": 3,
-            "api": "./api/drpy.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/qingfeng.js"
         },
         {
             "key": "南瓜影视",
