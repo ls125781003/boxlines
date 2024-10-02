@@ -145,17 +145,6 @@
             }
         },
         {
-            "key": "华为",
-            "name": "🍇华为┃秒播",
-            "type": 1,
-            "api": "https://cjhwba.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 10
-        },
-        {
             "key": "立播弹幕版",
             "name": "🐰立播┃在线",
             "type": 3,
