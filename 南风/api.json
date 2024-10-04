@@ -421,7 +421,7 @@
             },
             "ext": {
                 "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/youtube.json",
-                "cookie": ""
+                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/youtubecookie.json"
             }
         },
         {

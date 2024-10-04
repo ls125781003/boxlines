@@ -81,6 +81,29 @@
             "ext": "./js/guazi.js"
         },
         {
+            "key": "醉挽清风",
+            "name": "🍁醉挽清风┃4K纯净",
+            "type": 3,
+            "api": "./api/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/qingfeng.js"
+        },
+        {
+            "key": "小满万全",
+            "name": "♨️小满万全┃4K纯净",
+            "type": 3,
+            "api": "./api/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/mgtv.js"
+        },
+        {
             "key": "南瓜影视",
             "name": "🎃南瓜┃蓝光┃纯净",
             "type": 3,
@@ -1329,7 +1352,7 @@
         {
             "name": "zhuimi-super",
             "type": 1,
-            "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
+            "url": "http://149.88.75.21:4343/zhuimi666.php?url=",
             "ext": {
                 "flag": [
                     "qq",

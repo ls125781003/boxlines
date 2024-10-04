@@ -1,3 +1,4 @@
+
 {
     "spider": "./spider.jar",
     "wallpaper": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314187703/w1.jpg",
@@ -143,6 +144,17 @@
             "header": {
                 "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
             }
+        },
+        {
+            "key": "华为",
+            "name": "🍇华为┃秒播",
+            "type": 1,
+            "api": "https://cjhwba.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 10
         },
         {
             "key": "立播弹幕版",
