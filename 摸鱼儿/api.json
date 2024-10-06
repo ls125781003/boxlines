@@ -81,27 +81,22 @@
             "ext": "./js/guazi.js"
         },
         {
-            "key": "醉挽清风",
-            "name": "🍁醉挽清风┃4K纯净",
+            "key": "笔触琉璃",
+            "name": "🩷笔触琉璃┃4K极影",
             "type": 3,
-            "api": "./api/drpy.min.js",
+            "api": "csp_Bilimd",
+            "jar": "./jars/配置中心.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/qingfeng.js"
-        },
-        {
-            "key": "小满万全",
-            "name": "♨️小满万全┃4K纯净",
-            "type": 3,
-            "api": "./api/drpy.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./js/mgtv.js"
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "cookie": "file://TV/bili_cookie.txt"
+            },
+            "timeout": 10
         },
         {
             "key": "南瓜影视",
@@ -1352,7 +1347,7 @@
         {
             "name": "zhuimi-super",
             "type": 1,
-            "url": "http://149.88.75.21:4343/zhuimi666.php?url=",
+            "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
             "ext": {
                 "flag": [
                     "qq",
