@@ -1,4 +1,3 @@
-
 {
     "spider": "./spider.jar",
     "wallpaper": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314187703/w1.jpg",
@@ -89,12 +88,11 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "timeout": 10,
+            "timeout": 20,
             "categories": [
                 "剧情片",
                 "动作片",
                 "冒险片",
-                "同性片",
                 "喜剧片",
                 "奇幻片",
                 "恐怖片",
@@ -146,17 +144,6 @@
             }
         },
         {
-            "key": "华为",
-            "name": "🍇华为┃秒播",
-            "type": 1,
-            "api": "https://cjhwba.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 10
-        },
-        {
             "key": "立播弹幕版",
             "name": "🐰立播┃在线",
             "type": 3,
@@ -184,7 +171,7 @@
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
-                "site": "https://duopan.fun",
+                "site": "http://labipan.com",
                 "danmu": true
             },
             "timeout": 25
