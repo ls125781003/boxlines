@@ -274,7 +274,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/南瓜影视[优].js"
+			"ext": "./drpy_js/南瓜影视.js"
 		},
 		{
 			"key": "hipy_js_素白白[优]",
@@ -285,7 +285,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/素白白[优].js"
+			"ext": "./drpy_js/素白白.js"
 		},
 		{
 			"key": "hipy_js_一起看[优]",
