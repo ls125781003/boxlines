@@ -244,6 +244,17 @@
 			"ext": "./drpy_js/可可影视[优].js"
 		},
 		{
+			"key": "hipy_js_网飞猫[优]",
+			"name": "网飞猫[优](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/网飞猫[优].js"
+		},
+		{
 			"key": "hipy_js_剧圈圈",
 			"name": "剧圈圈(drpy_t3)",
 			"type": 3,
@@ -310,26 +321,15 @@
 			"ext": "./drpy_js/黑木耳资源[资].js"
 		},
 		{
-			"key": "hipy_js_咖啡影视",
-			"name": "咖啡影视(drpy_t3)",
+			"key": "hipy_js_天龙影院",
+			"name": "天龙影院(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/咖啡影视.js"
-		},	
-		{
-			"key": "hipy_js_樱花动漫[漫]",
-			"name": "樱花动漫[漫](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/樱花动漫[漫].js"
+			"ext": "./drpy_js/天龙影院.js"
 		},
 		{
 			"key": "hipy_js_NT动漫[漫]",
@@ -354,61 +354,6 @@
 			"ext": "./drpy_js/58动漫[漫].js"
 		},
 		{
-			"key": "hipy_js_兔小贝[儿]",
-			"name": "兔小贝[儿](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/兔小贝[儿].js"
-		},
-		{
-			"key": "hipy_js_童趣[儿]",
-			"name": "童趣[儿](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/童趣[儿].js"
-		},
-		{
-			"key": "hipy_js_贝乐虎[儿]",
-			"name": "贝乐虎[儿](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/贝乐虎[儿].js"
-		},
-		{
-			"key": "hipy_js_88看球[球]",
-			"name": "88看球[球](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/88看球[球].js"
-		},
-		{
-			"key": "hipy_js_360吧[球]",
-			"name": "360吧[球](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/360吧[球].js"
-		},
-		{
 			"key": "hipy_js_i275听书[听]",
 			"name": "i275听书[听](drpy_t3)",
 			"type": 3,
@@ -429,50 +374,6 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/老白故事[box].js"
-		},
-		{
-			"key": "hipy_js_有声绘本网[听]",
-			"name": "有声绘本网[听](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/有声绘本网[听].js"
-		},
-		{
-			"key": "hipy_js_有声小说吧[听]",
-			"name": "有声小说吧[听](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/有声小说吧[听].js"
-		},
-		{
-			"key": "hipy_js_爱上你听书网[听]",
-			"name": "爱上你听书网[听](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/爱上你听书网[听].js"
-		},
-		{
-			"key": "hipy_js_六月听书[听]",
-			"name": "六月听书[听](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/六月听书[听].js"
 		},
 		{
 			"key": "push_agent",
