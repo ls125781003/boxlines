@@ -25,10 +25,10 @@
             }
         },
         {
-            "key": "南瓜",
-            "name": "🎃南瓜┃直连",
+            "key": "天天",
+            "name": "⛅️天天┃直连",
             "type": 3,
-            "api": "csp_Nangua",
+            "api": "csp_TianTian",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -59,16 +59,6 @@
                 "wogg": true
             },
             "timeout": 30
-        },
-        {
-            "key": "天天",
-            "name": "⛅️天天┃直连",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10
         },
         {
             "key": "小苹果",
@@ -368,15 +358,6 @@
             "timeout": 20
         },
         {
-            "key": "不太灵",
-            "name": "🍄不太灵┃磁力",
-            "type": 3,
-            "api": "csp_Bt0",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 20
-        },
-        {
             "key": "快手直播",
             "name": "😎快手┃直播",
             "type": 3,
@@ -401,15 +382,6 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "timeout": 10
-        },
-        {
-            "key": "星星",
-            "name": "⭐️星星┃直连",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
             "timeout": 10
         },
         {
