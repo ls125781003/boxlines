@@ -69,15 +69,6 @@
             "filterable": 1
         },
         {
-            "key": "看客",
-            "name": "👲看客",
-            "type": 3,
-            "api": "csp_Kanke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "比特",
             "name": "✌️比特",
             "type": 3,
@@ -144,15 +135,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.tvyun01.com/"
-        },
-        {
-            "key": "csp_Dyxs",
-            "name": "🎬电影先生",
-            "type": 3,
-            "api": "csp_Dyxs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_FengGo",

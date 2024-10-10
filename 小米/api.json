@@ -70,7 +70,7 @@
         },
         {
             "key": "csp_JPYY",
-            "name": "🥇金牌┃1080P",
+            "name": "🥇文采┃1080P",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -89,7 +89,7 @@
             "ext": {
                 "host": "http://110.42.37.106:7788/api.php/app/",
                 "*": [
-                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+                    "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=",
                     ""
                 ]
             }
@@ -115,7 +115,6 @@
             "ext": {
                 "host": "http://122.228.85.203:1000/api.php/app/",
                 "*": [
-                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
                     "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
                 ]
             }
@@ -221,12 +220,29 @@
             "ext": "./json/Bili.json"
         },
         {
+            "key": "荐片",
+            "name": "🎬荐片┃磁力",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": "1",
+            "ext": "http://api2.rinhome.com"
+        },
+        {
             "key": "csp_农民",
             "name": "🐶汪汪┃1080P",
             "type": 3,
             "playerType": 1,
             "changeable": 0,
-            "api": "csp_Nongm"
+            "api": "csp_Nongm",
+            "ext": "https://www.wwgz.cn/"
+        },
+        {
+            "key": "csp_yigeg",
+            "name": "🥬菠菜┃1080P",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_Pptv",
+            "ext": "https://yigeg.pro/"
         },
         {
             "key": "csp_全网",
